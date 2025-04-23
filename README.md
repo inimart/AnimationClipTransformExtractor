@@ -4,6 +4,10 @@ A small **Editor‑only** utility that samples an `AnimationClip` at fixed time 
 
 ---
 
+![Inspector](./Documentation~/AnimationClipTransformExtractor.png)
+
+---
+
 ## Features
 
 * Extracts **position**, **rotation**, **scale** – individually toggleable
@@ -21,7 +25,7 @@ A small **Editor‑only** utility that samples an `AnimationClip` at fixed time 
 * Open Unity and your project
 * Go to Window > Package Manager
 * Click the "+" button and select "Install package from git URL..."
-* [GitHub - inimart/SessionLogger: Useful Session Logger for Unity3D
+* [https://github.com/inimart/AnimationClipTransformExtractor.git]
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "com.inimart.animationcliptransformextractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Animation Clip Transform Extractor",
   "description": "Editor utility that samples an AnimationClip at fixed intervals and records transform data, with optional prefab visualisation.",
   "unity": "2021.3",
