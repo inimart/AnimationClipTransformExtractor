@@ -1,0 +1,22 @@
+{
+  "name": "com.inimart.animationcliptransformextractor",
+  "version": "1.0.0",
+  "displayName": "Animation Clip Transform Extractor",
+  "description": "Editor utility that samples an AnimationClip at fixed intervals and records transform data, with optional prefab visualisation.",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/inimart/animationcliptransformextractor#readme",
+  "changelogUrl": "https://github.com/inimart/animationcliptransformextractor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/inimart/animationcliptransformextractor/blob/main/LICENSE",
+  "keywords": [
+    "animation clip",
+    "transform",
+    "animator",
+    "tool",
+    "editor"
+  ],
+  "author": {
+    "name": "Inimart",
+    "email": "inimartdesign@gmail.com",
+    "url": "https://www.inimart.com"
+  }
+} 
